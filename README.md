@@ -1,1 +1,2 @@
-# Website in progress
+# Simple website for a coffee shop
+
