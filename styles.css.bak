@@ -17,11 +17,20 @@ header {
     padding: 1rem 0;
 }
 
+.category {
+    margin: 20px 0;
+}
+
+.category h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #4CAF50; /* Change color of the category title */
+}
+
 .movie-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 20px;
 }
 
 .movie-box {
@@ -31,13 +40,15 @@ header {
     margin: 10px;
     text-align: center;
     width: 200px;
+	height: auto;
     overflow: hidden;
     transition: transform 0.2s;
 }
 
 .movie-box img {
     width: 100%;
-    height: auto;
+    height: 250px;
+	object-fit: cover;
 }
 
 .movie-box h3 {
