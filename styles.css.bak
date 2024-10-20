@@ -17,20 +17,11 @@ header {
     padding: 1rem 0;
 }
 
-.category {
-    margin: 20px 0;
-}
-
-.category h2 {
-    text-align: center;
-    margin-bottom: 15px;
-    color: #4CAF50; /* Change color of the category title */
-}
-
 .movie-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 20px;
 }
 
 .movie-box {

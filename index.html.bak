@@ -16,13 +16,13 @@
             <h2>Simple</h2>
             <div class="movie-container">
                 <div class="movie-box">
-					<a href="https://bgjelic.github.io/SimpleWebsiteCoffee/" target="_blank">
+					<a href="https://bgjelic.github.io/ToDoList/" target="_blank">
 						<img src="Coffee-simple-webpage.png" alt="Movie 1">
 					</a>
                     <h3>Coffee simple webpage</h3>
                 </div>
                 <div class="movie-box">
-					<a href="https://bgjelic.github.io/ToDoList/" target="_blank">
+					<a href="https://bgjelic.github.io/SimpleWebsiteCoffee/" target="_blank">
 						<img src="ToDoList-viaAngular.png" alt="Movie 2">
 					</a>
                     <h3>ToDO list via angular</h3>
