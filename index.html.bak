@@ -3,21 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Gallery</title>
+    <title>Project Gallery of bgjelic@gmail.com</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Project Gallery</h1>
+        <h1>Project Gallery of bgjelic@gmail.com</h1>
     </header>
     <main>
-
         <section class="category">
             <h2>Simple</h2>
             <div class="movie-container">
                 <div class="movie-box">
 					<a href="https://bgjelic.github.io/SimpleWebsiteCoffee/" target="_blank">
-						<img src="SimpleWebsiteCoffee.png" alt="Movie 1" width="200" height="300" title="SimpleWebsiteCoffee">
+						<img src="SimpleWebsiteCoffee.png" alt="Picture 1" width="200" height="300" title="SimpleWebsiteCoffee">
                    
 					<h3>Coffee simple webpage</h3>
 					
@@ -26,13 +25,13 @@
 				
                 <div class="movie-box">
 					<a href="https://bgjelic.github.io/ToDoList/" target="_blank">
-						<img src="ToDoList-viaAngular.png" alt="Movie 2" width="200" height="300">
+						<img src="ToDoList-viaAngular.png" alt="Picture 2" width="200" height="300">
                     <h3>ToDO list via angular</h3>
 					</a>
                 </div>
                 <div class="movie-box">
 					<a href="https://bgjelic.github.io/SimpleCalculator/" target="_blank">
-                    <img src="SimpleCalculator.png" alt="Movie 3" width="200" height="300">
+                    <img src="SimpleCalculator.png" alt="Picture 3" width="200" height="300">
                     <h3>Simple calculator in vue</h3>
 					</a>
                 </div>
@@ -44,15 +43,15 @@
             <h2>Intermediate</h2>
             <div class="movie-container">
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 4">
-                    <h3>Intermediate 1</h3>
+                    <img src="SimplifiedSudoku.png" alt="Picture 4" width="200" height="300">
+                    <h3>Sudoku</h3>
                 </div>
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 5">
+                    <img src="https://via.placeholder.com/200x300" alt="Picture 5">
                     <h3>Intermediate 2</h3>
                 </div>
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 6">
+                    <img src="https://via.placeholder.com/200x300" alt="Picture 6">
                     <h3>Intermediate 3</h3>
                 </div>
             </div>
@@ -62,15 +61,15 @@
             <h2>Advanced</h2>
             <div class="movie-container">
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 7">
+                    <img src="https://via.placeholder.com/200x300" alt="Picture 7">
                     <h3>Advanced 1</h3>
                 </div>
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 8">
+                    <img src="https://via.placeholder.com/200x300" alt="Picture 8">
                     <h3>Advanced 2</h3>
                 </div>
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 9">
+                    <img src="https://via.placeholder.com/200x300" alt="Picture 9">
                     <h3>Advanced 3</h3>
                 </div>
             </div>
