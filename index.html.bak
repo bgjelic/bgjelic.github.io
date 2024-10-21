@@ -17,7 +17,7 @@
             <div class="movie-container">
                 <div class="movie-box">
 					<a href="https://bgjelic.github.io/SimpleWebsiteCoffee/" target="_blank">
-						<img src="SimpleWebsiteCoffee.png" alt="Movie 1" width="200" height="300">
+						<img src="SimpleWebsiteCoffee.png" alt="Movie 1" width="200" height="300" title="SimpleWebsiteCoffee">
                    
 					<h3>Coffee simple webpage</h3>
 					
@@ -31,9 +31,12 @@
 					</a>
                 </div>
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Movie 3">
-                    <h3>Simple 3</h3>
+					<a href="https://bgjelic.github.io/SimpleCalculator/" target="_blank">
+                    <img src="SimpleCalculator.png" alt="Movie 3" width="200" height="300">
+                    <h3>Simple calculator in vue</h3>
+					</a>
                 </div>
+				
             </div>
         </section>
 
