@@ -43,12 +43,14 @@
             <h2>Intermediate</h2>
             <div class="movie-container">
                 <div class="movie-box">
+					<a href="https://bgjelic.github.io/Sudoku/" target="_blank">
                     <img src="SimplifiedSudoku.png" alt="Picture 4" width="200" height="300">
                     <h3>Sudoku</h3>
+					</a>
                 </div>
                 <div class="movie-box">
-                    <img src="https://via.placeholder.com/200x300" alt="Picture 5">
-                    <h3>Intermediate 2</h3>
+                    <img src="SimplifiedWebShop.png" alt="Picture 5" width="200" height="300">
+                    <h3>Simple movie webshop</h3>
                 </div>
                 <div class="movie-box">
                     <img src="https://via.placeholder.com/200x300" alt="Picture 6">
