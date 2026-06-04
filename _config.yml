@@ -4,7 +4,7 @@ title: "bgjelic | Projects"
 description: "GitHub project showcase"
 url: "https://bgjelic.github.io"
 repository: "bgjelic/bgjelic.github.io"
-teaser: /assets/images/project-placeholder.jpg
+teaser: /assets/images/MainScreen.png
 locale: en
 plugins:
   - jekyll-include-cache

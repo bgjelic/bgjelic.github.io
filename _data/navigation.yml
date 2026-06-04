@@ -7,5 +7,5 @@ main:
 projects:
   - title: "Projects"
     children:
-      - title: "Project Title"
-        url: /_pages/project-template/
+      - title: "MO / MyOrgApp"
+        url: /_pages/myorgapp/
