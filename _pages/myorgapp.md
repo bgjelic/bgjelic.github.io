@@ -40,6 +40,7 @@ A local-first personal organizer app built for Android. Everything stays on your
 - **Cards** — tasks/notes with reminders and completion tracking
 - **Checklists** — items inside cards with drag-to-reorder
 - **Repeating tasks** — daily, weekly, monthly, yearly, or custom days
+- **Priority** — assign priority levels to tasks with completion feedback
 - **Tags & Search** — organize with colored tags, find by text
 - **Calendar** — day, week, month views of all cards
 - **Statistics** — completion rates, streaks, charts by tag and priority
