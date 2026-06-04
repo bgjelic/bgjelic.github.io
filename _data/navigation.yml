@@ -1,0 +1,11 @@
+main:
+  - title: "Projects"
+    url: /
+  - title: "GitHub"
+    url: https://github.com/bgjelic
+
+projects:
+  - title: "Projects"
+    children:
+      - title: "Project Title"
+        url: /_pages/project-template/

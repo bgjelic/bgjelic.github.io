@@ -1,92 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Gallery of bgjelic@gmail.com</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Project Gallery of bgjelic@gmail.com</h1>
-    </header>
-    <main>
-        <section class="category">
-            <h2>Simple</h2>
-            <div class="movie-container">
-                <div class="movie-box">
-					<a href="https://bgjelic.github.io/SimpleWebsiteCoffee/" target="_blank">
-						<img src="SimpleWebsiteCoffee.png" alt="Picture 1" width="200" height="300" title="SimpleWebsiteCoffee">
-                   
-					<h3>Coffee simple webpage</h3>
-					
-					</a>
-                </div>
-				
-                <div class="movie-box">
-					<a href="https://bgjelic.github.io/ToDoList/" target="_blank">
-						<img src="ToDoList-viaAngular.png" alt="Picture 2" width="200" height="300">
-                    <h3>ToDO list via angular</h3>
-					</a>
-                </div>
-                <div class="movie-box">
-					<a href="https://bgjelic.github.io/SimpleCalculator/" target="_blank">
-                    <img src="SimpleCalculator.png" alt="Picture 3" width="200" height="300">
-                    <h3>Simple calculator in vue</h3>
-					</a>
-                </div>
-				
-            </div>
-        </section>
+---
+layout: splash
+title: "Projects"
+header:
+  overlay_color: "#222429"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner.jpg
+  caption: "GitHub project showcase"
+excerpt: "A collection of my projects."
+feature_row:
+  - image_path: /assets/images/project-placeholder.jpg
+    alt: "Project 1"
+    title: "Project Title"
+    excerpt: "Short description of the project."
+    url: "/_pages/project-template/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+---
 
-        <section class="category">
-            <h2>Intermediate</h2>
-            <div class="movie-container">
-                <div class="movie-box">
-					<a href="https://bgjelic.github.io/Sudoku/" target="_blank">
-                    <img src="SimplifiedSudoku.png" alt="Picture 4" width="200" height="300">
-                    <h3>Sudoku</h3>
-					</a>
-                </div>
-                <div class="movie-box">
-					<a href="https://bgjelic.github.io/SimplifiedWebShop/" target="_blank">
-                    <img src="SimplifiedWebShop.png" alt="Picture 5" width="200" height="300">
-                    <h3>Simple movie webshop</h3>
-					</a>
-                </div>
-                <div class="movie-box">
-					
-					<a href="https://github.com/bgjelic/SimpleBlackjack/" target="_blank">
-                    <img src="SimpleBlackjack.png" width="200" height="300">
-                    <h3>Simple Blackjack in kotlin</h3>
-                </div>
-            </div>
-        </section>
-
-        <section class="category">
-            <h2>Advanced</h2>
-            <div class="movie-container">
-                <div class="movie-box">
-					<a href="https://github.com/bgjelic/SimpleChess/" target="_blank">
-                    <img src="SimpleChess.png" width="200" height="300">
-                    <h3>SimpleChess - in progress</h3>
-                </div>
-                <div class="movie-box">
-					<a href="https://github.com/bgjelic/" target="_blank">
-                    <img src="ComingSoon.png" alt="Picture 8" width="200" height="300">
-                    <h3>Planer - coming soon </h3>
-                </div>
-                <div class="movie-box">
-					<a href="https://github.com/bgjelic/" target="_blank">
-                    <img src="ComingSoon.png" alt="Picture 8" width="200" height="300">
-                    <h3>Example 3</h3>
-                </div>
-            </div>
-        </section>
-
-    </main>
-    <footer>
-        <p>&copy; 2024 bgjelic@gmail.com</p>
-    </footer>
-</body>
-</html>
+{% include feature_row %}
