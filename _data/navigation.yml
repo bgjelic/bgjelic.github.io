@@ -8,4 +8,4 @@ projects:
   - title: "Projects"
     children:
       - title: "MO / MyOrgApp"
-        url: /_pages/myorgapp/
+        url: /projects/myorgapp/

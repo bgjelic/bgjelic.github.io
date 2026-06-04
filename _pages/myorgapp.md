@@ -1,5 +1,6 @@
 ---
 title: "MO / MyOrgApp"
+permalink: /projects/myorgapp/
 excerpt: "Local-first personal organizer for Android. No accounts, no cloud, no tracking."
 header:
   image: /assets/images/MainScreen.png
