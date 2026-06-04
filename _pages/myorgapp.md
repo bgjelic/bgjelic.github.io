@@ -3,7 +3,8 @@ title: "MO / MyOrgApp"
 permalink: /projects/myorgapp/
 excerpt: "Local-first personal organizer for Android. No accounts, no cloud, no tracking."
 header:
-  image: /assets/images/MainScreen.png
+  overlay_color: "#222429"
+  overlay_filter: "0.5"
   teaser: /assets/images/MainScreen.png
 sidebar:
   - title: "Role"
