@@ -2,9 +2,9 @@
 title: "MO - My organiser"
 permalink: /projects/myorgapp/
 author_profile: false
-excerpt: "Local-first personal organizer for Android. No accounts, no cloud, no tracking."
+excerpt: "Local-first personal organiser for Android."
 header:
-  overlay_color: "#222429"
+  overlay_image: /assets/images/banner.png
   overlay_filter: "0.5"
   teaser: /assets/images/MainScreen.png
 sidebar:
