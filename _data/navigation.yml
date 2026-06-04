@@ -7,5 +7,5 @@ main:
 projects:
   - title: "Projects"
     children:
-      - title: "MO / MyOrgApp"
+      - title: "MO - My organiser"
         url: /projects/myorgapp/

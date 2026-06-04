@@ -1,5 +1,5 @@
 ---
-title: "MO / MyOrgApp"
+title: "MO - My organiser"
 permalink: /projects/myorgapp/
 author_profile: false
 excerpt: "Local-first personal organizer for Android. No accounts, no cloud, no tracking."
