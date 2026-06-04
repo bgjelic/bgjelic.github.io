@@ -1,4 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "contrast"
 title: "bgjelic | Projects"
 description: "GitHub project showcase"
 url: "https://bgjelic.github.io"
@@ -42,3 +43,6 @@ footer:
       url: "https://github.com/bgjelic"
 analytics:
   provider: false
+
+atom_feed:
+  hide: true
