@@ -1,20 +1,15 @@
 ---
 layout: splash
-title: "Projects"
-header:
-  overlay_color: "#222429"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/banner.jpg
-  caption: "GitHub project showcase"
-excerpt: "A collection of my projects."
-feature_row:
-  - image_path: /assets/images/MainScreen.png
-    alt: "MO - My organiser"
-    title: "MO - My organiser"
-    excerpt: "Local-first personal organizer for Android. No accounts, no cloud, no tracking."
-    url: "/projects/myorgapp/"
-    btn_label: "View Project"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+<section style="padding: 2em 0; text-align: center;">
+  <h2>MO - My organiser</h2>
+  <p>Local-first personal organizer for Android. No accounts, no cloud, no tracking.</p>
+  <a href="/projects/myorgapp/" class="btn btn--primary">View Project</a>
+  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 1.5em;">
+    <img src="/assets/images/LoadingScreen.png" style="height: 350px; width: auto; border-radius: 8px;">
+    <img src="/assets/images/MainScreen.png" style="height: 350px; width: auto; border-radius: 8px;">
+    <img src="/assets/images/EditorScreen.png" style="height: 350px; width: auto; border-radius: 8px;">
+    <img src="/assets/images/DarkMode-PinkTheme.png" style="height: 350px; width: auto; border-radius: 8px;">
+  </div>
+</section>
